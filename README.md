@@ -4,7 +4,7 @@ Easily and directly scan and block spam security threats in input.
 This Python package provides a native API client for [Cloudmersive Spam Detection API](https://cloudmersive.com/spam-detection-api)
 
 - API version: v1
-- Package version: 3.0.2
+- Package version: 3.0.3
 - Build package: io.swagger.codegen.languages.PythonClientCodegen
 
 ## Requirements.
