@@ -2,7 +2,7 @@
 """
     spamapi
 
-    Easily and directly scan and block phishing security threats.  # noqa: E501
+    Easily and directly scan and block spam security threats in input.  # noqa: E501
 
     OpenAPI spec version: v1
     
@@ -74,7 +74,7 @@ class ApiClient(object):
             self.default_headers[header_name] = header_value
         self.cookie = cookie
         # Set default User-Agent.
-        self.user_agent = 'Swagger-Codegen/3.0.0/python'
+        self.user_agent = 'Swagger-Codegen/3.0.2/python'
 
     def __del__(self):
         if self._pool is not None:

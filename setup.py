@@ -3,7 +3,7 @@
 """
     spamapi
 
-    Easily and directly scan and block phishing security threats.  # noqa: E501
+    Easily and directly scan and block spam security threats in input.  # noqa: E501
 
     OpenAPI spec version: v1
     
@@ -14,7 +14,7 @@
 from setuptools import setup, find_packages  # noqa: H301
 
 NAME = "cloudmersive_spam_api_client"
-VERSION = "3.0.0"
+VERSION = "3.0.2"
 # To install the library, run the following
 #
 # python setup.py install
@@ -45,6 +45,6 @@ setup(
     include_package_data=True,
     long_description=long_description,
     long_description_content_type='text/markdown'
-    Easily and directly scan and block phishing security threats.  # noqa: E501
+    Easily and directly scan and block spam security threats in input.  # noqa: E501
 
 )

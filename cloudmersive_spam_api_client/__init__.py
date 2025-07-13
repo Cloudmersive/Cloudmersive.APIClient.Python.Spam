@@ -5,7 +5,7 @@
 """
     spamapi
 
-    Easily and directly scan and block phishing security threats.  # noqa: E501
+    Easily and directly scan and block spam security threats in input.  # noqa: E501
 
     OpenAPI spec version: v1
     

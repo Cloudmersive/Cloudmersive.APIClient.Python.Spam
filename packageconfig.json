@@ -1,6 +1,6 @@
 ﻿{
     "projectName": "cloudmersive_spam_api_client",
     "packageName": "cloudmersive_spam_api_client",
-    "packageVersion": "3.0.0",
+    "packageVersion": "3.0.2",
     "packageUrl": "https://cloudmersive.com/spam-detection-api"
 }

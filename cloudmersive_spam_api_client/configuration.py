@@ -3,7 +3,7 @@
 """
     spamapi
 
-    Easily and directly scan and block phishing security threats.  # noqa: E501
+    Easily and directly scan and block spam security threats in input.  # noqa: E501
 
     OpenAPI spec version: v1
     
@@ -248,5 +248,5 @@ class Configuration(object):
                "OS: {env}\n"\
                "Python Version: {pyversion}\n"\
                "Version of the API: v1\n"\
-               "SDK Package Version: 3.0.0".\
+               "SDK Package Version: 3.0.2".\
                format(env=sys.platform, pyversion=sys.version)
